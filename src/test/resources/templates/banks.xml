@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<banks xmlns="http://bankinfo.com/banks"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://bankinfo.com/banks banks.xsd">
+    <bank>
+        <name>HKB Bank</name>
+        <country>Bavaria</country>
+        <deposit type="demand deposit" accountId="d172061">
+            <depositor>Alissa Lange</depositor>
+            <amount>5000</amount>
+            <profitability>7.0</profitability>
+            <constraints>P10M</constraints>
+        </deposit>
+    </bank>
+</banks>
